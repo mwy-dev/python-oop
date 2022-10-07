@@ -1,1 +1,1 @@
-# python-oop
+- <b>BMI calculator</b> is a code which I used to learn OOP. It consist classes, metods, conditional statement and matplotlib graph.
